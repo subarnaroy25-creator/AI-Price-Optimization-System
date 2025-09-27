@@ -69,7 +69,7 @@ ollama pull llama3.1  # or any other model you prefer
 
 bash
 
-streamlit run price_optimization_app.py
+streamlit run price_optimization_app_V2.py
 
 The application will automatically:
 
