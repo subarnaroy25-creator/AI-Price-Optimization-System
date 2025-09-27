@@ -1,0 +1,9 @@
+streamlit
+pulp
+pandas
+numpy
+langgraph
+langchain-community
+langchain-core
+ollama
+plotly
